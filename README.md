@@ -10,8 +10,6 @@
 * [inventaire-i18n](https://github.com/inventaire/inventaire-i18n): repository hosting inventaire i18n strings and scripts
 * [inventaire-api](https://github.com/inventaire/inventaire-api): powering [api.inventaire.io](https://api.inventaire.io)
 * [inventaire-deploy](https://github.com/inventaire/inventaire-deploy): tools and scripts to setup inventaire.io in production
-* [isbn3](https://github.com/inventaire/isbn3): ISBN utils: parse, validate, format, audit
-* [isbn-groups](https://github.com/inventaire/isbn-groups): country and language data on ISBN groups
 * [entities-search-engine](https://github.com/inventaire/entities-search-engine): scripts and microservice to feed an ElasticSearch with Wikidata and Inventaire entities, and keep those up-to-date
 * [stack](https://github.com/inventaire/stack): inventaire stack visualization in HTML/CSS, powering [stack.inventaire.io](https://stack.inventaire.io)
 * [entities-map](https://github.com/inventaire/entities-map): inventaire entities map in HTML/CSS, powering [inventaire.github.io/entities-map](https://inventaire.github.io/entities-map)
@@ -48,6 +46,10 @@
 * [unicode-scripts-finder](https://github.com/maxlath/unicode-scripts-finder): find which unicode scripts a text is using
 * [fix-utf8](https://github.com/maxlath/fix-utf8): A collection of CLI tools to operate frequently needed text transformations)
 * [tiny-chalk](https://github.com/maxlath/tiny-chalk): a super tiny chalk fork
+
+### ISBN
+* [isbn3](https://github.com/inventaire/isbn3): ISBN utils: parse, validate, format, audit
+* [isbn-groups](https://github.com/inventaire/isbn-groups): country and language data on ISBN groups
 
 ### CouchDB
 * [blue-cot](https://github.com/maxlath/blue-cot): A CouchDB library with a simple, functional-programing-friendly API, returning promises
