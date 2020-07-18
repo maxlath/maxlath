@@ -1,21 +1,21 @@
 🌟: Things that get most of my working time
 
 ### P2P resources management / Inventaire
-* [inventaire](https://github.com/inventaire/inventaire): [inventaire.io] server 🌟🌟🌟
-* [inventaire-client](https://github.com/inventaire/inventaire-client): inventaire.io client  🌟🌟🌟
-* [inventaire-wiki](https://github.com/inventaire/inventaire-wiki): powering wiki.inventaire.io
-* [inventaire-query-service](https://github.com/inventaire/inventaire-query-service): inventaire SPARQL query service, powering query.inventaire.io
-* [inventaire-query-gui](https://github.com/inventaire/inventaire-query-gui): customized version of wikidata-query-gui,  powering query.inventaire.io
-* [inventaire-data](https://github.com/inventaire/inventaire-data): powering data.inventaire.io
+* [inventaire](https://github.com/inventaire/inventaire): [inventaire.io](https://inventaire.io) server 🌟🌟🌟
+* [inventaire-client](https://github.com/inventaire/inventaire-client): [inventaire.io](https://inventaire.io) client  🌟🌟🌟
+* [inventaire-wiki](https://github.com/inventaire/inventaire-wiki): powering [wiki.inventaire.io](https://wiki.inventaire.io)
+* [inventaire-query-service](https://github.com/inventaire/inventaire-query-service): inventaire SPARQL query service, powering [query.inventaire.io](https://query.inventaire.io)
+* [inventaire-query-gui](https://github.com/inventaire/inventaire-query-gui): customized version of wikidata-query-gui, powering [query.inventaire.io](https://query.inventaire.io)
+* [inventaire-data](https://github.com/inventaire/inventaire-data): powering [data.inventaire.io](https://data.inventaire.io)
 * [inventaire-i18n](https://github.com/inventaire/inventaire-i18n): repository hosting inventaire i18n strings and scripts
-* [inventaire-api](https://github.com/inventaire/inventaire-api): powering api.inventaire.io
+* [inventaire-api](https://github.com/inventaire/inventaire-api): powering [api.inventaire.io](https://api.inventaire.io)
 * [inventaire-deploy](https://github.com/inventaire/inventaire-deploy): tools and scripts to setup inventaire.io in production
 * [isbn3](https://github.com/inventaire/isbn3): ISBN utils: parse, validate, format, audit
 * [isbn-groups](https://github.com/inventaire/isbn-groups): country and language data on ISBN groups
 * [entities-search-engine](https://github.com/inventaire/entities-search-engine): scripts and microservice to feed an ElasticSearch with Wikidata and Inventaire entities, and keep those up-to-date
-* [stack](https://github.com/inventaire/stack): inventaire stack visualization in HTML/CSS, powering stack.inventaire.io
-* [entities-map](https://github.com/inventaire/entities-map): inventaire entities map in HTML/CSS, powering inventaire.github.io/entities-map
-* [communication](https://github.com/inventaire/communication): inventaire communication assets inventaire.github.io/communication
+* [stack](https://github.com/inventaire/stack): inventaire stack visualization in HTML/CSS, powering [stack.inventaire.io](https://stack.inventaire.io)
+* [entities-map](https://github.com/inventaire/entities-map): inventaire entities map in HTML/CSS, powering [inventaire.github.io/entities-map](https://inventaire.github.io/entities-map)
+* [communication](https://github.com/inventaire/communication): inventaire communication assets, [inventaire.github.io/communication](https://inventaire.github.io/communication)
 
 ### Wikibase/Wikidata
 * [wikibase-sdk](https://www.npmjs.com/package/wikibase-sdk): JS utils functions to query a Wikibase instance and simplify its results 🌟
@@ -24,8 +24,8 @@
 * [wikibase-dump-filter](https://npmjs.com/package/wikibase-dump-filter): Filter and format a newline-delimited JSON stream of Wikibase entities
 * [wikidata-scripting](https://github.com/maxlath/wikidata-scripting): examples of scripts to edit Wikidata
 * [wikidata-lang](https://github.com/maxlath/wikichat-lang): mappings between 2-letters language codes (ISO 639-1) and Wikidata ids
-* [hub](https://github.com/maxlath/hub): Web hub based on Wikidata, powering hub.toolforge.org
-* [hashtags-hub](https://github.com/maxlath/hashtags-hub): A web service to get links to hashtag pages on different web platforms, powering hashtags-hub.toolforge.org
+* [hub](https://github.com/maxlath/hub): Web hub based on Wikidata, powering [hub.toolforge.org](https://hub.toolforge.org)
+* [hashtags-hub](https://github.com/maxlath/hashtags-hub): A web service to get links to hashtag pages on different web platforms, powering [hashtags-hub.toolforge.org](https://hashtags-hub.toolforge.org)
 * [wikidata-links-enhancer](https://github.com/maxlath/wikidata-links-enhancer): browser script to display wikidata links under any wikimedia projects pages, just after the header
 * [wikidata-rank](https://github.com/maxlath/wikidata-rank): Attributing scores to Wikidata items, making those available via a web API and dumps, under a CC0 license
 * [wikidata-rss](https://github.com/maxlath/wikichat-rss): generate a RSS feed from a WikiChat page
