@@ -45,6 +45,7 @@
 
 ### Text
 * [text-transform-cli](https://github.com/maxlath/text-transform-cli): A collection of CLI tools to operate frequently needed text transformations
+* [unicode-scripts-finder](https://github.com/maxlath/unicode-scripts-finder): find which unicode scripts a text is using
 * [fix-utf8](https://github.com/maxlath/fix-utf8): A collection of CLI tools to operate frequently needed text transformations)
 * [tiny-chalk](https://github.com/maxlath/tiny-chalk): a super tiny chalk fork
 
