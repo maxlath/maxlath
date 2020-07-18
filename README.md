@@ -1,8 +1,8 @@
 🌟: Things that get most of my working time
 
 ### P2P resources management / Inventaire
-* [inventaire](https://github.com/inventaire/inventaire): [inventaire.io](https://inventaire.io) server 🌟🌟🌟
-* [inventaire-client](https://github.com/inventaire/inventaire-client): [inventaire.io](https://inventaire.io) client  🌟🌟🌟
+* 🌟🌟🌟 [inventaire](https://github.com/inventaire/inventaire): [inventaire.io](https://inventaire.io) server
+* 🌟🌟🌟 [inventaire-client](https://github.com/inventaire/inventaire-client): [inventaire.io](https://inventaire.io) client
 * [inventaire-wiki](https://github.com/inventaire/inventaire-wiki): powering [wiki.inventaire.io](https://wiki.inventaire.io)
 * [inventaire-query-service](https://github.com/inventaire/inventaire-query-service): inventaire SPARQL query service, powering [query.inventaire.io](https://query.inventaire.io)
 * [inventaire-query-gui](https://github.com/inventaire/inventaire-query-gui): customized version of wikidata-query-gui, powering [query.inventaire.io](https://query.inventaire.io)
@@ -18,9 +18,9 @@
 * [communication](https://github.com/inventaire/communication): inventaire communication assets, [inventaire.github.io/communication](https://inventaire.github.io/communication)
 
 ### Wikibase/Wikidata
-* [wikibase-sdk](https://www.npmjs.com/package/wikibase-sdk): JS utils functions to query a Wikibase instance and simplify its results 🌟
-* [wikibase-edit](https://github.com/maxlath/wikibase-edit): Edit a Wikibase instance from NodeJS 🌟
-* [wikibase-cli](https://github.com/maxlath/wikibase-cli): The command-line interface to Wikibase instances 🌟
+* 🌟 [wikibase-sdk](https://www.npmjs.com/package/wikibase-sdk): JS utils functions to query a Wikibase instance and simplify its results
+* 🌟 [wikibase-edit](https://github.com/maxlath/wikibase-edit): Edit a Wikibase instance from NodeJS
+* 🌟 [wikibase-cli](https://github.com/maxlath/wikibase-cli): The command-line interface to Wikibase instances
 * [wikibase-dump-filter](https://npmjs.com/package/wikibase-dump-filter): Filter and format a newline-delimited JSON stream of Wikibase entities
 * [wikidata-scripting](https://github.com/maxlath/wikidata-scripting): examples of scripts to edit Wikidata
 * [wikidata-lang](https://github.com/maxlath/wikichat-lang): mappings between 2-letters language codes (ISO 639-1) and Wikidata ids
