@@ -57,6 +57,7 @@
 * [couch-init2](https://github.com/maxlath/https://github.com/maxlath/couch-init2): An opiniated CouchDB databases initializer for users of nano-blue
 * [couchdb-blazegraph-sync](https://github.com/maxlath/couchdb-blazegraph-sync): Keep a CouchDB database and a BlazeGraph namespace in sync
 * [couchdb-backup](https://github.com/maxlath/couchdb-backup): command line scripts to dump & restore a CouchDB database
+* [couchdb-bulk2](https://github.com/maxlath/couchdb-bulk2): pipe newline-delimited JSON into CouchDB
 
 ### LevelDB
 * [lev2](https://github.com/maxlath/lev2): A CLI and a REPL for managing LevelDB instances
