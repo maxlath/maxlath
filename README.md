@@ -65,8 +65,11 @@
 ### Admin Sys
 * [os-health-report](https://github.com/maxlath/os-health-report): A micro server reporting simple information on its (Linux) host machine
 
+### VSCode
+* [vscode-only-test](https://github.com/maxlath/vscode-only-test): A minimalist vscode extension that adds a command to toggle Mocha `it.only` to the test the cursor is in
+* [vscode-convert-cjs-to-esm](https://github.com/maxlath/vscode-convert-cjs-to-esm): Command to convert `require` to a static `import`
+
 ### Misc
 * [backup-github-repo](https://github.com/maxlath/backup-github-repo): Backup all the issues and pull requests of a Github repo, including the comments, events, and labels, as JSON and as HTML
 * [mini-proxy](https://github.com/maxlath/mini-proxy): a minimalist URL-based proxy
 * [irc-logger](https://github.com/maxlath/irc-logger): super-tiny IRC bot to log channels
-* [vscode-only-test](https://github.com/maxlath/vscode-only-test): A minimalist vscode extension that adds a command to toggle Mocha `it.only` to the test the cursor is in
