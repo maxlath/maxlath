@@ -28,6 +28,10 @@
 * [wikidata-rank](https://github.com/maxlath/wikidata-rank): Attributing scores to Wikidata items, making those available via a web API and dumps, under a CC0 license
 * [wikidata-rss](https://github.com/maxlath/wikichat-rss): generate a RSS feed from a WikiChat page
 
+### Activism
+* [carte-rlpi](https://framagit.org/pleinlavue/carte-rlpi): an SVG map styled in JS, to display cities mayors' positions on outdoor video advertisement
+* [generateur-d-email](https://framagit.org/pleinlavue/generateur-d-email): a form to generate emails for people to send to their representatives
+
 ### WebExtensions
 * [time-capsule](https://github.com/maxlath/time-capsule): A WebExtension to send links to your future self
 * [maximize-telegram-web](https://github.com/maxlath/maximize-telegram-web): maximize Telegram Web so that large messages (like code samples) can be easily read
