@@ -33,7 +33,8 @@
 * [generateur-d-email](https://framagit.org/pleinlavue/generateur-d-email): a form to generate emails for people to send to their representatives
 
 ### WebExtensions
-* [time-capsule](https://github.com/maxlath/time-capsule): A WebExtension to send links to your future self
+* [Time Capsule](https://github.com/maxlath/time-capsule): a WebExtension to send links to your future self
+* [Website History Browser](https://github.com/maxlath/website-history-browser): a WebExtension to browse your history per website
 * [maximize-telegram-web](https://github.com/maxlath/maximize-telegram-web): maximize Telegram Web so that large messages (like code samples) can be easily read
 
 ### JSON/NDJSON
