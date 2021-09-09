@@ -21,7 +21,7 @@
 * 🌟 [wikibase-cli](https://github.com/maxlath/wikibase-cli): The command-line interface to Wikibase instances
 * [wikibase-dump-filter](https://npmjs.com/package/wikibase-dump-filter): Filter and format a newline-delimited JSON stream of Wikibase entities
 * [wikidata-scripting](https://github.com/maxlath/wikidata-scripting): examples of scripts to edit Wikidata
-* [wikidata-lang](https://github.com/maxlath/wikichat-lang): mappings between 2-letters language codes (ISO 639-1) and Wikidata ids
+* [wikidata-lang](https://github.com/inventaire/wikidata-lang): mappings between 2-letters language codes (ISO 639-1) and Wikidata ids
 * [hub](https://github.com/maxlath/hub): Web hub based on Wikidata, powering [hub.toolforge.org](https://hub.toolforge.org)
 * [hashtags-hub](https://github.com/maxlath/hashtags-hub): A web service to get links to hashtag pages on different web platforms, powering [hashtags-hub.toolforge.org](https://hashtags-hub.toolforge.org)
 * [wikidata-links-enhancer](https://github.com/maxlath/wikidata-links-enhancer): browser script to display wikidata links under any wikimedia projects pages, just after the header
