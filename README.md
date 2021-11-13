@@ -79,3 +79,4 @@
 * [backup-github-repo](https://github.com/maxlath/backup-github-repo): Backup all the issues and pull requests of a Github repo, including the comments, events, and labels, as JSON and as HTML
 * [mini-proxy](https://github.com/maxlath/mini-proxy): a minimalist URL-based proxy
 * [irc-logger](https://github.com/maxlath/irc-logger): super-tiny IRC bot to log channels
+* [task-lottery](https://gitlab.com/kanthaus/task-lottery): Task lottery
