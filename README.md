@@ -34,6 +34,7 @@
 ### WebExtensions
 * 💖 [Time Capsule](https://github.com/maxlath/time-capsule): a WebExtension to send links to your future self
 * 💖 [Website History Browser](https://github.com/maxlath/website-history-browser): a WebExtension to browse your history per website
+* [YouTube Auto LD](https://github.com/maxlath/youtube-auto-ld): a WebExtension to automatically set Youtube video resolution to a low definition, to save resources
 * 🪦 [maximize-telegram-web](https://github.com/maxlath/maximize-telegram-web): maximize Telegram Web so that large messages (like code samples) can be easily read
 
 ### Activism
