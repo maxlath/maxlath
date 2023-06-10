@@ -43,15 +43,17 @@
 
 ### JSON/NDJSON
 * [ndjson-apply](https://github.com/maxlath/ndjson-apply): apply a JS function to a stream of newline-delimited JSON
+* [json-apply](https://github.com/maxlath/json-apply): A CLI tool to transform JSON files with custom JS functions
 * [jsondepth](https://github.com/maxlath/jsondepth): a small command-line tool to walk through the depth levels of a JSON objects
 * [ndjson-2-json](https://github.com/maxlath/ndjson-2-json): Minimal CLI converter from newline-delimited JSON to a JSON array
 
 ### Streams
+* [line-apply](https://github.com/maxlath/line-apply): A CLI tool to transform a text stream by applying a JS function to each line
 * [load-balance-lines](https://www.npmjs.com/package/load-balance-lines): Parallelize newline-delimited data processing by load balancing lines between multiple processes
 * [start-from](https://www.npmjs.com/package/start-from): Command-line tool to ignore lines of a stream until a line matches a given pattern, typically to resume an operation from the point where it stopped.
 
 ### Text
-* 💖 [text-transform-cli](https://github.com/maxlath/text-transform-cli): A collection of CLI tools to operate frequently needed text transformations
+* [text-transform-cli](https://github.com/maxlath/text-transform-cli): A collection of CLI tools to operate frequently needed text transformations
 * [unicode-scripts-finder](https://github.com/maxlath/unicode-scripts-finder): find which unicode scripts a text is using
 * [fix-utf8](https://github.com/maxlath/fix-utf8): A collection of CLI tools to operate frequently needed text transformations)
 * [tiny-chalk](https://github.com/maxlath/tiny-chalk): a super tiny chalk fork
