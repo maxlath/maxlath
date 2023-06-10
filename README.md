@@ -1,6 +1,6 @@
-🌟: Things that get most of my working time (logarithmic scale)
-💖: Other things that have a special place in my heart
-🪦: Archived
+🌟: Things that get most of my working time (logarithmic scale)<br>
+💖: Other things that have a special place in my heart<br>
+🪦: Archived<br>
 
 ### P2P resources management / Inventaire
 * 🌟🌟🌟 [inventaire](https://github.com/inventaire/inventaire): [inventaire.io](https://inventaire.io) server
